@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiLocal</name>
+    </assembly>
+    <members>
+        <member name="M:ApiLocal._3._0_.__UI.ProjectController.getProjects">
+            <summary>
+            Get all projects of team
+            </summary>
+        </member>
+    </members>
+</doc>
